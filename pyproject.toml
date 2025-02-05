@@ -1,0 +1,13 @@
+[project]
+name = "emotic-avata"
+version = "0.1.0"
+description = "Emotic Avatar - AI Agentic Agent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "panda>=0.3.1",
+    "pandas>=2.2.3",
+    "pydantic>=2.10.6",
+    "pydantic-ai>=0.0.22",
+    "streamlit>=1.42.0",
+]

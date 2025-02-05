@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package emotic;
+
+// Represents an emotion state at a specific timestamp
+message EmotionState {
+  int64 timestamp = 1;    // Unix timestamp
+  float valence = 2;      // -1 to 1 (positive/negative emotion)
+  float arousal = 3;      // 0 to 1 (energy level)
+  float dominance = 4;    // 0 to 1 (confidence level)
+  repeated float emotions = 5; // Plutchik emotion intensities (array)
+}
+
+// Stream of emotions for real-time updates
+message EmotionStream {
+  repeated EmotionState states = 1;
+}
