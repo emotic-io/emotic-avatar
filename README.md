@@ -28,7 +28,7 @@ where:
 	•	C = Contextual modifiers (e.g., conversation topic,  history).
 
 ## Plutchik Wheel of Emotion
-[<img src="img/plutchik.png" width=350 />]
+<img src="img/plutchik.png" width=350 />
 
 ### Architecture:
 
