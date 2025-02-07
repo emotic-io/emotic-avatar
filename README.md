@@ -21,11 +21,11 @@ R = f(E_a, E_u, C)
 
 where:
 
-	•	E_a = Agent’s emotion vector.
+	•	E_a = Agent’s emotion vector
  
 	•	E_u = User’s perceived emotion vector
  
-	•	C = Contextual modifiers (e.g., conversation topic, past history).
+	•	C = Contextual modifiers (e.g., conversation topic,  history).
 
 ## Plutchik Wheel of Emotion
 [<img src="img/plutchik.png" width=350 />]
