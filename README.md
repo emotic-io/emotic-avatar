@@ -20,6 +20,7 @@ Typically hosted in a Docker container - TBD: Evaluate if hosting in WASM (Cloud
 R = f(E_a, E_u, C)
 
 where:
+
 	•	E_a = Agent’s emotion vector.
  
 	•	E_u = User’s perceived emotion vector
