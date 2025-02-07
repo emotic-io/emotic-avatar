@@ -18,7 +18,7 @@ Typically hosted in a Docker container - TBD: Evaluate if hosting in WASM (Cloud
 ### Emotion Basic Vector
 
 ## Plutnik
-![Plutnik] (public/plutnik.png)
+![Plutnik] (img/plutnik.png)
 
 ### Architecture:
 
