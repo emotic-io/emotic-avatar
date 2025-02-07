@@ -55,7 +55,7 @@ graph TD;
 ###  Future option: Agent Render on the Client  using [Babylon.js](https://Babylon.js)
 
 
-## Plutchik Emotions - VAD Mapping
+## Plutchik Emotions - Blendshape Mapping
 
 Blendshape Mapping
 Emotion | Primary Blendshapes
