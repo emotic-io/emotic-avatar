@@ -15,6 +15,11 @@ streamlit run app.py
 
 Typically hosted in a Docker container - TBD: Evaluate if hosting in WASM (Cloudflare Worker) is feasible, implement multitenancy.
 
+### Emotion Basic Vector
+
+## Plutnik
+!Plutnik (https://github.com/emotic-io/emotic-avatar/blob/main/plutnik.png
+
 ### Architecture:
 
 L | Node
