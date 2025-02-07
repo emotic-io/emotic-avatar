@@ -15,13 +15,15 @@ streamlit run app.py
 
 Typically hosted in a Docker container - TBD: Evaluate if hosting in WASM (Cloudflare Worker) is feasible, implement multitenancy.
 
-### Emotic's vector based emotion representatin
+### Emotic's vector based emotion representation
 
 R = f(E_a, E_u, C)
 
 where:
 	•	E_a = Agent’s emotion vector.
+ 
 	•	E_u = User’s perceived emotion vector
+ 
 	•	C = Contextual modifiers (e.g., conversation topic, past history).
 
 ## Plutchik Wheel of Emotion
